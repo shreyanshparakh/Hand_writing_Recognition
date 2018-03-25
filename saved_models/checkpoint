@@ -1,0 +1,2 @@
+model_checkpoint_path: "hcr_linear_acc_91_3"
+all_model_checkpoint_paths: "hcr_linear_acc_91_3"
